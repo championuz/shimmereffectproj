@@ -1,0 +1,10 @@
+{
+  "name": "adddmob",
+  "displayName": "adddmob",
+
+    "react-native-google-mobile-ads": {
+      "android_app_id": "ca-app-pub-1368927070829085~1408358310",
+      "ios_app_id": "ca-app-pub-1368927070829085~1025214939"
+    }
+  
+}
